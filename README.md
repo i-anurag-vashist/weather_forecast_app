@@ -17,6 +17,10 @@ A simple weather application built with React. This app allows users to search f
 - **react-live-clock** - For displaying the live time
 - **CSS** - Styling and layout
 
+## Live Demo
+
+Check out the live version of the app: [Your City Weather on Single Click](https://yourcityweatheronsingleclick.netlify.app)
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
